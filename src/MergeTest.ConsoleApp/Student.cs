@@ -2,6 +2,11 @@
 
 public static class Student
 {
+    public static void FirstFunction()
+    {
+        Console.WriteLine("First Function");
+        Console.WriteLine("--------------");
+    }
     public static void SecondFunction()
     {
         Console.WriteLine("Saman Function");
