@@ -7,6 +7,10 @@ public static class Student
         Console.WriteLine("First Function");
         Console.WriteLine("First Function");
         Console.WriteLine("First Function");
+
+        Console.WriteLine("Parisa First");
+        Console.WriteLine("Parisa Second");
+        Console.WriteLine("Parisa Third");
     }
     public static void SecondFunction()
     {
