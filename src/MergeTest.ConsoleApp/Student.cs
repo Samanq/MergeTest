@@ -4,8 +4,8 @@ public static class Student
 {
     public static void FirstFunction()
     {
-        System.Console.WriteLine("This is parisa First Function");
-        System.Console.WriteLine("End ----");
+        Console.WriteLine("First Function");
+        Console.WriteLine("--------------");
     }
     public static void SecondFunction()
     {
