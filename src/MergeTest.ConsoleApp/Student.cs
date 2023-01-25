@@ -15,4 +15,9 @@ public static class Student
         Console.WriteLine("Second Function");
         Console.WriteLine("Second Function");
     }
+
+    public static void ThirdFunction()
+    {
+        System.Console.WriteLine("Function for new sprint");
+    }
 }
